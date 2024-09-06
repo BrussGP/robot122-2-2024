@@ -1,0 +1,194 @@
+h1{
+    text-align: center;
+}
+#cabeza{  
+    width: 130px;
+    height: 180px;
+    margin: auto;
+    border-style: ridge;
+    border-color: grey;
+    background-color: silver;
+    position:relative;
+    top: 0px;
+}
+#orejaizquierda{  
+    width: 20px;
+    height: 40px;
+    background-color: silver;
+    position: relative;
+    left:-25px;
+    top: 30px;
+    border: 3px gray solid;
+}
+
+#orejaderecha{
+    width: 20px;
+    height: 40px;
+    background-color: silver;
+    position: absolute;
+    right: -25px;
+    top: 30px;
+    border: 3px gray solid;
+}
+
+#ojoizquierda{
+    border: 3px solid black;
+    width: 25px;
+    height: 25px;
+    background-color: whitesmoke;
+    position: relative;
+    left:25px;
+}
+#irisizquierdo{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left:7px;
+    top: 7px;
+}
+#ojoderecha{
+    border: 3px solid black;
+    width: 25px;
+    height: 25px;
+    background-color: whitesmoke;
+    position: absolute;
+    right: 25px;
+    top: 44px;
+}
+#irisderecho{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left:7px;
+    top: 7px;
+}
+#osico{
+    border: 3px solid silver;
+    width: 70px;
+    height: 70px;
+    background-color: silver;
+    position: absolute;
+    left: 26px;
+    top: 77px;
+}
+#nariz{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: relative;
+    left: 30px;
+    top: 15px;
+    border-radius: 50px;
+}
+#boca{
+    width: 50px;
+    height: 10px;
+    border-color: black;
+    border-style: solid;
+    background-color: cornsilk;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+#cuerpo{
+    width: 260px;
+    height: 325px;
+    margin: auto;
+    
+    background-color: silver;
+    border-style: solid;
+    border-color:  gray;
+}
+#brazoiquierdo{
+    width: 30px;
+    height: 210px;
+    margin: auto;
+    position: relative;
+    background-color: silver;
+    left: -180px;
+    bottom: 45px;
+    transform: rotate(35deg);
+}
+#manoizquierda{
+    border: 3px gray solid;
+    width: 60px;
+    height: 60px;
+    background-color: silver;
+    position: relative;
+    border-radius: 50%;
+    top: 180px;
+    left: -15px;
+}
+#manoderecha{
+    border: 3px gray solid;
+    width: 60px;
+    height: 60px;
+    background-color: silver;
+    position: relative;
+    border-radius: 50%;
+    top: 180px;
+    left: -15px;
+}
+#brazoderecho{
+    width: 30px;
+    height: 210px;
+    margin: auto;
+    position: relative;
+    background-color: silver;
+    right: -180px;
+    bottom: 250px;
+    transform: rotate(-35deg);
+}
+#piernaizquierda{
+    width: 60px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    background-color: silver;
+    left: -60px;
+    bottom: 145px;
+    border: 3px gray solid;
+}
+#pieizquierdo{
+    border: 3px gray solid;
+    width: 90px;
+    height: 20px;
+    background-color: silver;
+    position: relative;
+    top: 200px;
+    left: -19px;
+}
+#piernaderecha{
+    width: 60px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+    background-color: silver;
+    border: 3px gray solid;
+    right: -65px;
+    bottom: 351px;
+}
+#piederecho{
+    border: 3px gray solid;
+    width: 90px;
+    height: 20px;
+    background-color: silver;
+    position: relative;
+    top: 200px;
+    left: -19px;
+}
+#abdomen{
+    border: 3px solid black;
+    width: 60px;
+    height: 20px;
+    margin: auto;
+    background-color: rgb(88, 88, 230);
+    position: relative;
+    top: 50px;
+    left: -70px;
+    color: white;
+    font-size:10px;
+    text-align: center;
+}
